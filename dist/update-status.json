@@ -1,0 +1,38 @@
+{
+  "checkedAt": "2026-10-14",
+  "schedule": "Sundays 06:00 Asia/Kolkata",
+  "checked": 735,
+  "changed": 0,
+  "added": 0,
+  "sources": [
+    {
+      "brand": "Seiko",
+      "feed": "https://seikowatches.co.in/products.json",
+      "products": 453,
+      "pricesMatched": 0
+    },
+    {
+      "brand": "Timex",
+      "error": "Source unavailable (curl 56)"
+    },
+    {
+      "brand": "Titan",
+      "feed": "https://gangaramwatchgallery.com/products.json",
+      "products": 3339,
+      "pricesMatched": 77
+    },
+    {
+      "brand": "Fossil",
+      "feed": "https://zimsonwatches.com/collections/fossil/products.json",
+      "products": 417,
+      "pricesMatched": 44
+    },
+    {
+      "brand": "Omega",
+      "feed": "https://zimsonwatches.com/collections/omega/products.json",
+      "products": 277,
+      "pricesMatched": 31
+    }
+  ],
+  "success": true
+}

@@ -1,0 +1,65 @@
+name: Weekly catalog refresh
+on:
+  schedule:
+    - cron: '30 0 * * 0' # Sunday 06:00 India time
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - run: python -m unittest discover -s tests
+      - name: Refresh prices and discover models
+        run: python -u scripts/refresh-catalog.py
+      - name: Build and validate
+        run: |
+          python prepare-catalog.py
+          python scripts/validate-catalog.py
+      - name: Save verified changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data dist
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh sourced watch prices and catalog'
+            git push origin HEAD:main
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - id: deployment
+        uses: actions/deploy-pages@v5
+      - name: Write run summary
+        if: always()
+        run: |
+          python - <<'PY'
+          import json,os,pathlib
+          p=pathlib.Path('data/refresh-report.json')
+          if p.exists():
+            r=json.loads(p.read_text())
+            with open(os.environ['GITHUB_STEP_SUMMARY'],'a') as f:
+              f.write(f"## Watch Atlas weekly check\n\nPrices checked: {r['checked']} · Changed: {r['changed']} · New models: {r['added']}\n\nUnavailable: {len(r['unavailable'])} · Quarantined: {len(r['quarantined'])}\n")
+          PY
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: refresh-report
+          path: data/refresh-report.json
+          retention-days: 90

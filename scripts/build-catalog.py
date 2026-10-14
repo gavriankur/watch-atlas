@@ -63,7 +63,7 @@ def normalize(w):
  if w.get('priceNote') and w['priceNote'] not in notes:notes.append(w['priceNote'])
  sources=w.get('sources') or [{'label':brand+' official product page','url':source}]
  if isinstance(sources,dict):sources=[sources]
- official={'Rolex':['rolex.com'],'Omega':['omegawatches.com'],'Rado':['rado.com'],'Fossil':['fossil.com','fi.revalsys.com'],'Seiko':['seikowatches.com','seikowatches.co.in'],'Casio':['casio.com','casioindiashop.com'],'Tissot':['tissotwatches.com'],'Citizen':['citizenwatches.co.in','citizenwatch.com'],'Titan':['titan.co.in'],'Timex':['timexindia.com'],'Hamilton':['hamiltonwatch.com'],'Longines':['longines.com'],'Swatch':['swatch.com']}
+ official={'Rolex':['rolex.com'],'Omega':['omegawatches.com'],'Rado':['rado.com'],'Fossil':['fossil.com'],'Seiko':['seikowatches.com','seikowatches.co.in'],'Casio':['casio.com','casioindiashop.com'],'Tissot':['tissotwatches.com'],'Citizen':['citizenwatches.co.in','citizenwatch.com'],'Titan':['titan.co.in'],'Timex':['timexindia.com'],'Hamilton':['hamiltonwatch.com'],'Longines':['longines.com'],'Swatch':['swatch.com']}
  host=urlparse(source).hostname or ''
  sourceType='manufacturer' if any(host==h or host.endswith('.'+h) for h in official.get(brand,[])) else 'retailer'
  record={'id':id,'brand':brand,'collection':collection,'name':name,'ref':str(ref),'price':float(price) if price is not None else None,'priceType':w.get('priceType') or 'Listed INR price','source':source,'priceSource':w.get('priceSource') or source,'image':img,'images':list(dict.fromkeys(w.get('images') or [img]))[:6],'size':size,'movement':movement,'style':style,'specs':specs,'verifiedAt':w.get('verifiedAt','2026-10-13'),'priceCheckedAt':w.get('priceCheckedAt') or ('2026-10-13' if brand=='Rado' and w.get('technicalVerifiedAt') else w.get('verifiedAt','2026-10-13')),'specCheckedAt':w.get('technicalVerifiedAt') or w.get('verifiedAt','2026-10-13'),'notes':notes,'sources':sources,'sourceType':sourceType}
@@ -84,6 +84,13 @@ for id,w in list(records.items()):
   matches=[x for x in records.values() if x['brand']=='Seiko' and x['ref'].startswith(w['ref']) and x['ref'][6:] in ['K1','J1','P1']]
   if len(matches)==1:
    matches[0].setdefault('legacyIds',[]).append(id);del records[id]
+# Apply dated price observations after source imports and reference deduplication.
+override_path=root/'data/refresh-overrides.json'
+if override_path.exists():
+ for id,observation in json.loads(override_path.read_text()).items():
+  if id in records:
+   records[id].update(observation)
+   records[id]['verifiedAt']=max(records[id]['priceCheckedAt'],records[id]['specCheckedAt'])
 # Keep primary photos already optimized locally across reproducible builds.
 assets=json.loads((root/'data/photo-map.json').read_text()) if (root/'data/photo-map.json').exists() else {}
 for id,w in records.items():

@@ -1,0 +1,2077 @@
+{
+  "checkedAt": "2026-10-14",
+  "schedule": "Sundays 06:00 Asia/Kolkata",
+  "checked": 735,
+  "changed": 0,
+  "added": 0,
+  "sources": [
+    {
+      "brand": "Seiko",
+      "feed": "https://seikowatches.co.in/products.json",
+      "products": 453,
+      "pricesMatched": 0
+    },
+    {
+      "brand": "Timex",
+      "error": "Source unavailable (curl 56)"
+    },
+    {
+      "brand": "Titan",
+      "feed": "https://gangaramwatchgallery.com/products.json",
+      "products": 3339,
+      "pricesMatched": 77
+    },
+    {
+      "brand": "Fossil",
+      "feed": "https://zimsonwatches.com/collections/fossil/products.json",
+      "products": 417,
+      "pricesMatched": 44
+    },
+    {
+      "brand": "Omega",
+      "feed": "https://zimsonwatches.com/collections/omega/products.json",
+      "products": 277,
+      "pricesMatched": 31
+    }
+  ],
+  "unavailable": [
+    {
+      "id": "rolex-1273340001",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r12166159",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "seiko-srpd55",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "casio-g5600ue1",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-bm765350q",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "titan-nu1825km01",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "longines-l38304526",
+      "reason": "Source unavailable (curl 28)"
+    },
+    {
+      "id": "swatch-gb743s26",
+      "reason": "Source unavailable (curl 28)"
+    },
+    {
+      "id": "rolex-2282360018",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r48917903",
+      "reason": "Source unavailable (curl 28)"
+    },
+    {
+      "id": "seiko-ssk003",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "casio-ga21001a1",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-bm765350e",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "titan-nu90110wl08",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "hamilton-h69439931",
+      "reason": "Source unavailable (curl 28)"
+    },
+    {
+      "id": "longines-l37814566",
+      "reason": "Source unavailable (curl 28)"
+    },
+    {
+      "id": "swatch-so33m100",
+      "reason": "Source unavailable (curl 28)"
+    },
+    {
+      "id": "rolex-3369350008",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r48916903",
+      "reason": "Source unavailable (curl 28)"
+    },
+    {
+      "id": "seiko-srpb41j1",
+      "reason": "Source unavailable (curl 28)"
+    },
+    {
+      "id": "casio-a168wa1",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-bm765651l",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "swatch-so33r100",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rolex-1263340033",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r12159309",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "seiko-ssc911",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "casio-f91w1",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-ca461085m",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "swatch-so33m700",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rolex-1343030001",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r32284403",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "casio-ae1200whd1av",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-ca461085z",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "swatch-so33m106",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rolex-1265060001",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r32284313",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "casio-efv160d1av",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-ca461085a",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "swatch-so35b400",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rolex-126613lb0002",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r32284303",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "casio-utp1302pd2a2v",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-bm765252p",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "swatch-so35l400",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rolex-1266030001",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r32284203",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "casio-dw5600ue1",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-bm765457x",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "swatch-so35p400",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rolex-1366600005",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r32284153",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "casio-ga1001a1",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-at826786x",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "swatch-so35g100",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rolex-126710blnr0003",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r20254702",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "casio-ga1101b",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-at828568z",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "swatch-suoz366",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rolex-2266580001",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r32279312",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "casio-gab21001a",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-at828665e",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "swatch-so29z150",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rolex-1266800001",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r32279162",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "casio-gd3501b",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-at912089l",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "swatch-so29b703",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rolex-2242700001",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r32279332",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "casio-a158wa1",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-cb596669e",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "swatch-so28z700",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rolex-2265700001",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r32279322",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "casio-a1000d7",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-ca463053a",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "longines-l24494736",
+      "reason": "Source unavailable (curl 28)"
+    },
+    {
+      "id": "swatch-suoz373",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rolex-1269000001",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r32278162",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "casio-mtp1302pd1a1v",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-ca463053e",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "hamilton-h64475540",
+      "reason": "Source unavailable (curl 28)"
+    },
+    {
+      "id": "longines-l29604782",
+      "reason": "Source unavailable (curl 28)"
+    },
+    {
+      "id": "swatch-gz711",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rolex-525080008",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r48913413",
+      "reason": "Source unavailable (curl 28)"
+    },
+    {
+      "id": "seiko-sla061j1",
+      "reason": "Source unavailable (curl 28)"
+    },
+    {
+      "id": "casio-mtp1381d1av",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "tissot-t1254171104100",
+      "reason": "Source unavailable (curl 28)"
+    },
+    {
+      "id": "citizen-bm763080l",
+      "reason": "Source unavailable (curl 28)"
+    },
+    {
+      "id": "timex-tw2y46400x6",
+      "reason": "Source unavailable (curl 28)"
+    },
+    {
+      "id": "swatch-lp135",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rolex-1260000016",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r48913313",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "casio-mtpvd01d1ev",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-bm763381x",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "swatch-so28k700",
+      "reason": "Source unavailable (curl 92)"
+    },
+    {
+      "id": "rolex-1273360001",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r48913203",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "casio-ltpv007d1b",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-bm763080z",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "swatch-sb02b104",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rolex-126500ln0001",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r48912413",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "casio-ltp1302d7a1v",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-bm763781h",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "longines-l29494996",
+      "reason": "Source unavailable (curl 28)"
+    },
+    {
+      "id": "swatch-so28b113",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rolex-1260000014",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r48912203",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "casio-ltpvt01l7b1",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-bm762083l",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "hamilton-h69509930",
+      "reason": "Source unavailable (curl 28)"
+    },
+    {
+      "id": "longines-l29504992",
+      "reason": "Source unavailable (curl 28)"
+    },
+    {
+      "id": "swatch-so28n702",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rolex-126710grnr0003",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r48912313",
+      "reason": "Source unavailable (curl 28)"
+    },
+    {
+      "id": "casio-efr526d1av",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-bm762083x",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "hamilton-h70605732",
+      "reason": "Source unavailable (curl 28)"
+    },
+    {
+      "id": "swatch-sb06j100",
+      "reason": "Source unavailable (curl 92)"
+    },
+    {
+      "id": "rolex-525060003",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r48921153",
+      "reason": "Source unavailable (curl 28)"
+    },
+    {
+      "id": "seiko-ssc757j1",
+      "reason": "Source unavailable (curl 28)"
+    },
+    {
+      "id": "casio-ecb900db1a",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-bm762482a",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "swatch-so28b704",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rolex-525090002",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r48921703",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "casio-efss570d1a",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-bm763080e",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "swatch-so29z157",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rolex-1265050005",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r48919723",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "casio-prg3401",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-bm763080x",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "swatch-ge713",
+      "reason": "Source unavailable (curl 92)"
+    },
+    {
+      "id": "rolex-2282390033",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r48920703",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "casio-prw351a",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-ca459081a",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "swatch-suoz371",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rolex-136668lb0001",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r48918723",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "casio-efk110d2a",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-ca459081l",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "swatch-yvs454",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rolex-126610ln0001",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r12161573",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "casio-efb109d3av",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-ca459081x",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rolex-1262030058",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r12171313",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "casio-efr574bl1av",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-bm733458e",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rolex-2282380042",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r27179902",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "casio-efr575c8a",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-ew229950e",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rolex-127286tbr0001",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "rado-r32504208",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "casio-era130d3a",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-bm733458b",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27119402",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "casio-eqb1300d2a",
+      "reason": "Source unavailable (curl 56)"
+    },
+    {
+      "id": "citizen-ew229950a",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32148172",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "citizen-at257056e",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12171573",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "citizen-at257056l",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12161313",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "citizen-ca077072m",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48920153",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "citizen-ca450083m",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32138208",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "citizen-bm753254l",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r10260152",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "citizen-bm753254p",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r10263702",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "citizen-bm753459a",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r10264712",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "citizen-bm733385e",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r10260712",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "citizen-ca421512e",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r10261712",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32283313",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30008902",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30032752",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30029952",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32223229",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32223258",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32223313",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27181902",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27183012",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12169409",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12169209",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12166309",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48919713",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48918703",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48918303",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48918713",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48919703",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48919303",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r20258162",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r20254712",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r20253712",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32195202",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27049012",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27048162",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27111162",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30234762",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30233942",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30232902",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30232922",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12171263",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12170113",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12161263",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12160113",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12171663",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12170223",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12161663",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12160223",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r20249152",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30227702",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30228702",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30229902",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27124702",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r10206109",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27174712",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48903733",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48903723",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48903703",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r22242703",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r20255712",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r20256162",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r20256712",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r20255162",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r20251912",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r20250712",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r20251902",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r20252702",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27073722",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27083722",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32129168",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32223408",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32224203",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32225313",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r22240703",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12171643",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12171633",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12171653",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30230922",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30230912",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r22241703",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r22243703",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12171253",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32281309",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32280213",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32280109",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32280313",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32280153",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32280203",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12171713",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12170253",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32223213",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32223203",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27123012",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r10201409",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r10201319",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r10201259",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30212302",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30211152",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30210152",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30212402",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32190153",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32189313",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12165155",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27196152",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27197169",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27197152",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12170343",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12170323",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12170333",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30231712",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30230902",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r10201712",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r10201152",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r10204712",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r10200152",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r10203102",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32192152",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48904013",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48903153",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48905205",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48905015",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48903103",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48903253",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12161653",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12161643",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12161633",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30038712",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27047902",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30040712",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30039712",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27054152",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r22884903",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12065303",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r22885903",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27086752",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27073752",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32502403",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32156313",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32156013",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32154208",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27177255",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27178205",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12161733",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32153209",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12161253",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32157152",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12160253",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32158102",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48913403",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27073712",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27176712",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32150162",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27086172",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30029932",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30029942",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30031742",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30032742",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30029922",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30029902",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30029912",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30028912",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30028902",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27115012",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27108112",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27107172",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48915903",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48914713",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r10202209",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r10202309",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r10202319",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32500718",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12164153",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30037744",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30037732",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32151318",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30008742",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "seiko-spb471j1",
+      "reason": "Source unavailable (curl 28)"
+    },
+    {
+      "id": "rado-r30008712",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "seiko-spb447j1",
+      "reason": "Source unavailable (curl 28)"
+    },
+    {
+      "id": "rado-r27083712",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "seiko-srq053j1",
+      "reason": "Source unavailable (curl 28)"
+    },
+    {
+      "id": "rado-r27086712",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "seiko-ssb445p1",
+      "reason": "Source unavailable (curl 28)"
+    },
+    {
+      "id": "rado-r32150168",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30008302",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30013302",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30012202",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r14068176",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r14068036",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r14067166",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27239752",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32976912",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12162153",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32136323",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32148162",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27072012",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27080172",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27077102",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27078172",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27242742",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30017302",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30020742",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30020712",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30019744",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30019742",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30019732",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30019722",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30019712",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30019012",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30018742",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30018712",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30018152",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30017732",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r30017712",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48913763",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48913303",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48912763",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48912303",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48913743",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48913733",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48912743",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48912733",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32256712",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32137203",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32138303",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12163118",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12160303",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12160213",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12160103",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32128162",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27073012",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32146208",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32145208",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32145158",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48917703",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48916703",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32105353",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27107742",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27243742",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48914703",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48913703",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48913153",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48912723",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48912703",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48912023",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48913723",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48913713",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48913023",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48912153",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48915703",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r48912713",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r22879215",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32156203",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32156153",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27957909",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32139708",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32128202",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32127152",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32127162",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32504407",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32504317",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27072902",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27073702",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32504315",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27083202",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27078702",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27108312",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27108732",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27107732",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27080722",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27080702",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27078722",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27079702",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27086162",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32105313",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27092622",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27095652",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27091612",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27096662",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32523722",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32505313",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12413573",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12413503",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12413533",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12413523",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r22895215",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r22883923",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r32021102",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r22885945",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27006912",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27243732",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27057732",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27242732",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27056732",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r22876015",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27238712",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27238162",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r22877025",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r22876013",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27242712",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12638173",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12949153",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r22865115",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r22861115",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r22865765",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r22861765",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27059712",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27056712",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27056162",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r27056152",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12306303",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12304303",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12306313",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12304313",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12307304",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12305304",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12413323",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12413613",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12416633",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12416613",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12413493",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12416393",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12413343",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12413314",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12413313",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12416073",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12413073",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12408633",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12416573",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12413803",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12391153",
+      "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "rado-r12391103",
+      "reason": "No exact-reference INR offer in supported markup"
+    }
+  ],
+  "quarantined": [],
+  "success": true
+}
