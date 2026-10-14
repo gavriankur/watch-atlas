@@ -1,9 +1,9 @@
 {
   "checkedAt": "2026-10-14",
   "schedule": "Sundays 06:00 Asia/Kolkata",
-  "checked": 735,
+  "checked": 1104,
   "changed": 0,
-  "added": 0,
+  "added": 24,
   "sources": [
     {
       "brand": "Seiko",
@@ -13,7 +13,9 @@
     },
     {
       "brand": "Timex",
-      "error": "Source unavailable (curl 56)"
+      "feed": "https://shop.timexindia.com/products.json",
+      "products": 3314,
+      "pricesMatched": 65
     },
     {
       "brand": "Titan",
@@ -32,6 +34,14 @@
       "feed": "https://zimsonwatches.com/collections/omega/products.json",
       "products": 277,
       "pricesMatched": 31
+    },
+    {
+      "brand": "Tissot",
+      "newModels": 0
+    },
+    {
+      "brand": "Hamilton",
+      "error": "Source unavailable (curl 28)"
     }
   ],
   "success": true
