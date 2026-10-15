@@ -216,7 +216,7 @@ def main():
   if not safe_price(w['price'],price):
    report['quarantined'].append({'id':w['id'],'previous':w['price'],'observed':price});continue
   report['checked']+=1
-  overrides[w['id']]={'price':price,'priceSource':source,'priceCheckedAt':TODAY}
+  overrides[w['id']]={'price':price,'priceSource':source,'priceCheckedAt':TODAY,'priceType':'Source-listed INR price'}
   if w['price']!=price:
    report['changed']+=1;history.append({'id':w['id'],'date':TODAY,'previous':w['price'],'price':price,'source':source})
  report['added']=len(new)

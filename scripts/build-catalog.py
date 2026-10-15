@@ -88,7 +88,7 @@ for id,w in list(records.items()):
 override_path=root/'data/refresh-overrides.json'
 if override_path.exists():
  for id,observation in json.loads(override_path.read_text()).items():
-  if id in records:
+  if id in records and observation['priceCheckedAt']>=records[id]['priceCheckedAt']:
    records[id].update(observation)
    records[id]['verifiedAt']=max(records[id]['priceCheckedAt'],records[id]['specCheckedAt'])
 # Keep primary photos already optimized locally across reproducible builds.
