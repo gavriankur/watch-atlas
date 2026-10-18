@@ -1,21 +1,21 @@
 {
-  "checkedAt": "2026-10-14",
+  "checkedAt": "2026-10-18",
   "schedule": "Sundays 06:00 Asia/Kolkata",
-  "checked": 1104,
+  "checked": 1031,
   "changed": 0,
-  "added": 24,
+  "added": 25,
   "sources": [
     {
       "brand": "Seiko",
       "feed": "https://seikowatches.co.in/products.json",
-      "products": 453,
+      "products": 320,
       "pricesMatched": 0
     },
     {
       "brand": "Timex",
       "feed": "https://shop.timexindia.com/products.json",
-      "products": 3314,
-      "pricesMatched": 65
+      "products": 3319,
+      "pricesMatched": 77
     },
     {
       "brand": "Titan",
@@ -27,7 +27,7 @@
       "brand": "Fossil",
       "feed": "https://zimsonwatches.com/collections/fossil/products.json",
       "products": 417,
-      "pricesMatched": 44
+      "pricesMatched": 56
     },
     {
       "brand": "Omega",
@@ -37,11 +37,11 @@
     },
     {
       "brand": "Tissot",
-      "newModels": 0
+      "newModels": 1
     },
     {
       "brand": "Hamilton",
-      "error": "Source unavailable (curl 28)"
+      "newModels": 0
     }
   ],
   "unavailable": [
@@ -138,6 +138,10 @@
       "reason": "Source unavailable (curl 22)"
     },
     {
+      "id": "seiko-srq057j1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
       "id": "casio-ae1200whd1av",
       "reason": "Source unavailable (curl 22)"
     },
@@ -151,6 +155,10 @@
     },
     {
       "id": "rolex-1265060001",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-spb487j1",
       "reason": "Source unavailable (curl 22)"
     },
     {
@@ -170,6 +178,10 @@
       "reason": "Source unavailable (curl 22)"
     },
     {
+      "id": "seiko-spb437j1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
       "id": "casio-utp1302pd2a2v",
       "reason": "Source unavailable (curl 22)"
     },
@@ -183,6 +195,10 @@
     },
     {
       "id": "rolex-1266030001",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-ssk027k1",
       "reason": "Source unavailable (curl 22)"
     },
     {
@@ -218,6 +234,10 @@
       "reason": "Source unavailable (curl 22)"
     },
     {
+      "id": "seiko-srq045j1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
       "id": "casio-ga1101b",
       "reason": "Source unavailable (curl 22)"
     },
@@ -234,6 +254,10 @@
       "reason": "Source unavailable (curl 22)"
     },
     {
+      "id": "seiko-sla065j1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
       "id": "casio-gab21001a",
       "reason": "Source unavailable (curl 22)"
     },
@@ -247,6 +271,10 @@
     },
     {
       "id": "rolex-1266800001",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-spb295j1",
       "reason": "Source unavailable (curl 22)"
     },
     {
@@ -282,6 +310,10 @@
       "reason": "Source unavailable (curl 22)"
     },
     {
+      "id": "seiko-spb257j1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
       "id": "casio-a1000d7",
       "reason": "Source unavailable (curl 22)"
     },
@@ -295,6 +327,10 @@
     },
     {
       "id": "rolex-1269000001",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-spb253j1",
       "reason": "Source unavailable (curl 22)"
     },
     {
@@ -314,6 +350,10 @@
       "reason": "Source unavailable (curl 22)"
     },
     {
+      "id": "seiko-sla061j1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
       "id": "casio-mtp1381d1av",
       "reason": "Source unavailable (curl 22)"
     },
@@ -327,6 +367,10 @@
     },
     {
       "id": "rolex-1260000016",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-spb281j1",
       "reason": "Source unavailable (curl 22)"
     },
     {
@@ -346,6 +390,10 @@
       "reason": "Source unavailable (curl 22)"
     },
     {
+      "id": "seiko-sla055j1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
       "id": "casio-ltpv007d1b",
       "reason": "Source unavailable (curl 22)"
     },
@@ -359,6 +407,10 @@
     },
     {
       "id": "rolex-126500ln0001",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-srq037j1",
       "reason": "Source unavailable (curl 22)"
     },
     {
@@ -378,6 +430,10 @@
       "reason": "Source unavailable (curl 22)"
     },
     {
+      "id": "seiko-srq035j1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
       "id": "casio-ltpvt01l7b1",
       "reason": "Source unavailable (curl 22)"
     },
@@ -391,6 +447,10 @@
     },
     {
       "id": "rolex-126710grnr0003",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-ssa423j1",
       "reason": "Source unavailable (curl 22)"
     },
     {
@@ -410,6 +470,10 @@
       "reason": "Source unavailable (curl 22)"
     },
     {
+      "id": "seiko-ssc757j1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
       "id": "casio-ecb900db1a",
       "reason": "Source unavailable (curl 22)"
     },
@@ -423,6 +487,10 @@
     },
     {
       "id": "rolex-525090002",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-srz539p1",
       "reason": "Source unavailable (curl 22)"
     },
     {
@@ -442,6 +510,10 @@
       "reason": "Source unavailable (curl 22)"
     },
     {
+      "id": "seiko-spb219j1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
       "id": "casio-prg3401",
       "reason": "Source unavailable (curl 22)"
     },
@@ -455,6 +527,10 @@
     },
     {
       "id": "rolex-2282390033",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-spb217j1",
       "reason": "Source unavailable (curl 22)"
     },
     {
@@ -474,6 +550,10 @@
       "reason": "Source unavailable (curl 22)"
     },
     {
+      "id": "seiko-ssb395p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
       "id": "casio-efk110d2a",
       "reason": "Source unavailable (curl 22)"
     },
@@ -490,6 +570,10 @@
       "reason": "Source unavailable (curl 22)"
     },
     {
+      "id": "seiko-sut403p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
       "id": "casio-efb109d3av",
       "reason": "Source unavailable (curl 22)"
     },
@@ -499,6 +583,10 @@
     },
     {
       "id": "rolex-1262030058",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-spb071j1",
       "reason": "Source unavailable (curl 22)"
     },
     {
@@ -514,6 +602,10 @@
       "reason": "Source unavailable (curl 22)"
     },
     {
+      "id": "seiko-ssc787p9",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
       "id": "casio-efr575c8a",
       "reason": "Source unavailable (curl 22)"
     },
@@ -526,12 +618,20 @@
       "reason": "Source unavailable (curl 22)"
     },
     {
+      "id": "seiko-ssc777p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
       "id": "casio-era130d3a",
       "reason": "Source unavailable (curl 22)"
     },
     {
       "id": "citizen-bm733458b",
       "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "seiko-ssc771p1",
+      "reason": "Source unavailable (curl 22)"
     },
     {
       "id": "casio-eqb1300d2a",
@@ -546,15 +646,23 @@
       "reason": "Source unavailable (curl 22)"
     },
     {
+      "id": "seiko-ssh063j1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
       "id": "citizen-at257056e",
       "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "seiko-ssh071j1",
+      "reason": "Source unavailable (curl 22)"
     },
     {
       "id": "citizen-at257056l",
       "reason": "No exact-reference INR offer in supported markup"
     },
     {
-      "id": "hamilton-h77916920",
+      "id": "seiko-ssh051j1",
       "reason": "Source unavailable (curl 22)"
     },
     {
@@ -562,47 +670,327 @@
       "reason": "No exact-reference INR offer in supported markup"
     },
     {
+      "id": "seiko-ssh049j1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
       "id": "citizen-ca450083m",
       "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "seiko-ssh045j1",
+      "reason": "Source unavailable (curl 22)"
     },
     {
       "id": "citizen-bm753254l",
       "reason": "No exact-reference INR offer in supported markup"
     },
     {
+      "id": "seiko-ssa346j1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
       "id": "citizen-bm753254p",
       "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "seiko-srz532p1",
+      "reason": "Source unavailable (curl 22)"
     },
     {
       "id": "citizen-bm753459a",
       "reason": "No exact-reference INR offer in supported markup"
     },
     {
+      "id": "seiko-spl059p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
       "id": "citizen-bm733385e",
       "reason": "No exact-reference INR offer in supported markup"
+    },
+    {
+      "id": "seiko-spl057p1",
+      "reason": "Source unavailable (curl 22)"
     },
     {
       "id": "citizen-ca421512e",
       "reason": "No exact-reference INR offer in supported markup"
     },
     {
-      "id": "rado-r20249152",
+      "id": "seiko-spl055p1",
       "reason": "Source unavailable (curl 22)"
     },
     {
-      "id": "rado-r27123012",
+      "id": "seiko-sup432p1",
       "reason": "Source unavailable (curl 22)"
     },
     {
-      "id": "rado-r27072012",
+      "id": "seiko-sup431p1",
       "reason": "Source unavailable (curl 22)"
     },
     {
-      "id": "rado-r48915703",
+      "id": "seiko-sup429p1",
       "reason": "Source unavailable (curl 22)"
     },
     {
-      "id": "rado-r27079702",
+      "id": "seiko-sup428p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-swr033p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-sur624p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-srz524p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-srz522p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-srz516p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-srz514p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-srz496p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-srz468p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-srw837p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-sky700p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-sky663p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-sky660p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-sky658p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-skk886p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-sfq803p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-sfq800p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-snp100p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-ssc357p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-spc135p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-sut156p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-sut154p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-srn062p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-srn049p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-ssb333p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-ssb296p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-ssb293p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-ssb263p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-ssb257p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-ssb177p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-spc256p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-spc088p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-sur809p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-spc248p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-spc246p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-spc243p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-spc241p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-spc237p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-spc234p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-spc228p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-spc227p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-ssc642p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-ssc628p9",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-srn064p9",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-sne506p9",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-sne412p9",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-snr037j1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-sje075j1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-sse170j1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-spb111j1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-srx015p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-snp150p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-snp149p2",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-snp091p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-ssc603p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-ssc601p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-ssc599p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-ssa306j1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-ssc487p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-spc162p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-ssa303j1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-spc159p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-sxb429p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-sut321p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "seiko-sne533p1",
       "reason": "Source unavailable (curl 22)"
     }
   ],

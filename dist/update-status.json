@@ -1,21 +1,21 @@
 {
-  "checkedAt": "2026-10-14",
+  "checkedAt": "2026-10-18",
   "schedule": "Sundays 06:00 Asia/Kolkata",
-  "checked": 1104,
+  "checked": 1031,
   "changed": 0,
-  "added": 24,
+  "added": 25,
   "sources": [
     {
       "brand": "Seiko",
       "feed": "https://seikowatches.co.in/products.json",
-      "products": 453,
+      "products": 320,
       "pricesMatched": 0
     },
     {
       "brand": "Timex",
       "feed": "https://shop.timexindia.com/products.json",
-      "products": 3314,
-      "pricesMatched": 65
+      "products": 3319,
+      "pricesMatched": 77
     },
     {
       "brand": "Titan",
@@ -27,7 +27,7 @@
       "brand": "Fossil",
       "feed": "https://zimsonwatches.com/collections/fossil/products.json",
       "products": 417,
-      "pricesMatched": 44
+      "pricesMatched": 56
     },
     {
       "brand": "Omega",
@@ -37,11 +37,11 @@
     },
     {
       "brand": "Tissot",
-      "newModels": 0
+      "newModels": 1
     },
     {
       "brand": "Hamilton",
-      "error": "Source unavailable (curl 28)"
+      "newModels": 0
     }
   ],
   "success": true
