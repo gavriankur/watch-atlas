@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-10-18",
+  "checkedAt": "2026-10-25",
   "schedule": "Sundays 06:00 Asia/Kolkata",
-  "checked": 1031,
+  "checked": 1055,
   "changed": 0,
-  "added": 25,
+  "added": 28,
   "sources": [
     {
       "brand": "Seiko",
@@ -15,19 +15,19 @@
       "brand": "Timex",
       "feed": "https://shop.timexindia.com/products.json",
       "products": 3319,
-      "pricesMatched": 77
+      "pricesMatched": 89
     },
     {
       "brand": "Titan",
       "feed": "https://gangaramwatchgallery.com/products.json",
-      "products": 3339,
+      "products": 3352,
       "pricesMatched": 77
     },
     {
       "brand": "Fossil",
       "feed": "https://zimsonwatches.com/collections/fossil/products.json",
       "products": 417,
-      "pricesMatched": 56
+      "pricesMatched": 68
     },
     {
       "brand": "Omega",
@@ -37,7 +37,7 @@
     },
     {
       "brand": "Tissot",
-      "newModels": 1
+      "newModels": 4
     },
     {
       "brand": "Hamilton",
@@ -618,6 +618,10 @@
       "reason": "Source unavailable (curl 22)"
     },
     {
+      "id": "rado-r32504208",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
       "id": "seiko-ssc777p1",
       "reason": "Source unavailable (curl 22)"
     },
@@ -640,10 +644,6 @@
     {
       "id": "citizen-ew229950a",
       "reason": "No exact-reference INR offer in supported markup"
-    },
-    {
-      "id": "rado-r32148172",
-      "reason": "Source unavailable (curl 22)"
     },
     {
       "id": "seiko-ssh063j1",
@@ -991,6 +991,10 @@
     },
     {
       "id": "seiko-sne533p1",
+      "reason": "Source unavailable (curl 22)"
+    },
+    {
+      "id": "rado-r10204712",
       "reason": "Source unavailable (curl 22)"
     }
   ],
