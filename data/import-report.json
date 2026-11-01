@@ -1,23 +1,23 @@
 {
-  "checkedAt": "2026-10-25",
-  "references": 1321,
+  "checkedAt": "2026-11-01",
+  "references": 1346,
   "brands": {
     "Rolex": 30,
     "Omega": 31,
     "Rado": 358,
-    "Fossil": 80,
+    "Fossil": 92,
     "Seiko": 211,
     "Casio": 31,
-    "Tissot": 165,
+    "Tissot": 166,
     "Citizen": 40,
     "Titan": 79,
-    "Timex": 101,
+    "Timex": 113,
     "Hamilton": 111,
     "Longines": 58,
     "Swatch": 26
   },
-  "priced": 1307,
-  "manufacturerSourced": 1133,
+  "priced": 1332,
+  "manufacturerSourced": 1146,
   "minimumSpecFields": 7,
   "rejected": []
 }

@@ -2911,5 +2911,938 @@
       "Bracelet option": "Interchangeable quick release bracelet"
     },
     "verifiedAt": "2026-10-25"
+  },
+  {
+    "id": "timex-twtg12110",
+    "brand": "Timex",
+    "ref": "TWTG12110",
+    "name": "Timex Trendline Round 43mm Blue Dial Analog Men Watch - TWTG12110",
+    "collection": "Watch",
+    "source": "https://shop.timexindia.com/products/timex-trendline-round-43mm-blue-dial-analog-men-watch-twtg12110",
+    "priceSource": "https://shop.timexindia.com/products/timex-trendline-round-43mm-blue-dial-analog-men-watch-twtg12110",
+    "price": 3995.0,
+    "priceType": "Listed INR price",
+    "image": "https://cdn.shopify.com/s/files/1/0787/5375/9521/files/1760617862283-2969b5c4804e4977-19C10D139EACB81E245009A2FCF640A2.jpg?v=1788180750",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0787/5375/9521/files/1760617862283-2969b5c4804e4977-19C10D139EACB81E245009A2FCF640A2.jpg?v=1788180750"
+    ],
+    "specs": {
+      "Watch": ":",
+      "Buckle clasp": "Clasp (Self-Adjust)",
+      "Case color": "Rose Gold",
+      "Case diameter": "43 MM",
+      "Case material": "Brass",
+      "Case thickness": "9.6 MM",
+      "Country of origin": "India",
+      "Dial color": "Blue",
+      "Display type": "Analog",
+      "Glass material": "Mineral Glass",
+      "Package includes": "1 Watch with Warranty Card",
+      "Strap color": "Two Tone",
+      "Strap material": "Stainless Steel",
+      "Strap width": "22 MM",
+      "Warranty years": "1 Year manufacturer warranty on manufacturing defects.",
+      "Watch movement": "Quartz",
+      "Water resistance": "30 m",
+      "Gender": "Men",
+      "Dial Shape": "Round",
+      "Net Quantity": "1 N"
+    },
+    "verifiedAt": "2026-11-01",
+    "notes": [
+      "Discovered from the exact-reference India product listing."
+    ]
+  },
+  {
+    "id": "timex-twtg12109",
+    "brand": "Timex",
+    "ref": "TWTG12109",
+    "name": "Timex Trendline Round 43mm Silver Dial Analog Men Watch - TWTG12109",
+    "collection": "Watch",
+    "source": "https://shop.timexindia.com/products/timex-trendline-round-43mm-silver-dial-analog-men-watch-twtg12109",
+    "priceSource": "https://shop.timexindia.com/products/timex-trendline-round-43mm-silver-dial-analog-men-watch-twtg12109",
+    "price": 3495.0,
+    "priceType": "Listed INR price",
+    "image": "https://cdn.shopify.com/s/files/1/0787/5375/9521/files/1760617862554-2969b5c4804e4977-114042AC3B48232871458B61C2A67AA5.jpg?v=1788180747",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0787/5375/9521/files/1760617862554-2969b5c4804e4977-114042AC3B48232871458B61C2A67AA5.jpg?v=1788180747"
+    ],
+    "specs": {
+      "Watch": ":",
+      "Buckle clasp": "Buckle",
+      "Case color": "Gold",
+      "Case diameter": "43 MM",
+      "Case material": "Brass",
+      "Case thickness": "9.6 MM",
+      "Country of origin": "India",
+      "Dial color": "Silver",
+      "Display type": "Analog",
+      "Glass material": "Mineral Glass",
+      "Package includes": "1 Watch with Warranty Card",
+      "Strap color": "Brown",
+      "Strap material": "Leather",
+      "Strap width": "22 MM",
+      "Warranty years": "1 Year manufacturer warranty on manufacturing defects.",
+      "Watch movement": "Quartz",
+      "Water resistance": "30 m",
+      "Gender": "Men",
+      "Dial Shape": "Round",
+      "Net Quantity": "1 N"
+    },
+    "verifiedAt": "2026-11-01",
+    "notes": [
+      "Discovered from the exact-reference India product listing."
+    ]
+  },
+  {
+    "id": "timex-twtg12807",
+    "brand": "Timex",
+    "ref": "TWTG12807",
+    "name": "Timex Trendline Round 42mm Silver Dial Analog Men Watch - TWTG12807",
+    "collection": "Watch",
+    "source": "https://shop.timexindia.com/products/timex-trendline-round-42mm-silver-dial-analog-men-watch-twtg12807",
+    "priceSource": "https://shop.timexindia.com/products/timex-trendline-round-42mm-silver-dial-analog-men-watch-twtg12807",
+    "price": 4895.0,
+    "priceType": "Listed INR price",
+    "image": "https://cdn.shopify.com/s/files/1/0787/5375/9521/files/1760617855791-2969b5c4804e4977-DE4EBD2153F864AD2229CB0B7D6CC8F5.jpg?v=1788180746",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0787/5375/9521/files/1760617855791-2969b5c4804e4977-DE4EBD2153F864AD2229CB0B7D6CC8F5.jpg?v=1788180746"
+    ],
+    "specs": {
+      "Watch": ":",
+      "Buckle clasp": "Clasp (Self-Adjust)",
+      "Case color": "Gold",
+      "Case diameter": "42 MM",
+      "Case material": "Brass",
+      "Case thickness": "9.35 MM",
+      "Country of origin": "India",
+      "Dial color": "Silver",
+      "Display type": "Analog",
+      "Glass material": "Mineral Glass",
+      "Package includes": "1 Watch with Warranty Card",
+      "Strap color": "Gold",
+      "Strap material": "Stainless Steel",
+      "Strap width": "22 MM",
+      "Warranty years": "1 Year manufacturer warranty on manufacturing defects.",
+      "Watch movement": "Quartz",
+      "Water resistance": "30 m",
+      "Gender": "Men",
+      "Dial Shape": "Round",
+      "Net Quantity": "1 N"
+    },
+    "verifiedAt": "2026-11-01",
+    "notes": [
+      "Discovered from the exact-reference India product listing."
+    ]
+  },
+  {
+    "id": "timex-twtg12806",
+    "brand": "Timex",
+    "ref": "TWTG12806",
+    "name": "Timex Trendline Round 42mm Green Dial Analog Men Watch - TWTG12806",
+    "collection": "Watch",
+    "source": "https://shop.timexindia.com/products/timex-trendline-round-42mm-green-dial-analog-men-watch-twtg12806",
+    "priceSource": "https://shop.timexindia.com/products/timex-trendline-round-42mm-green-dial-analog-men-watch-twtg12806",
+    "price": 4995.0,
+    "priceType": "Listed INR price",
+    "image": "https://cdn.shopify.com/s/files/1/0787/5375/9521/files/1760617856649-2969b5c4804e4977-04AA4798F9F4A5722F60BE162665B5F6.jpg?v=1788180744",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0787/5375/9521/files/1760617856649-2969b5c4804e4977-04AA4798F9F4A5722F60BE162665B5F6.jpg?v=1788180744"
+    ],
+    "specs": {
+      "Watch": ":",
+      "Buckle clasp": "Clasp (Self-Adjust)",
+      "Case color": "Gold",
+      "Case diameter": "42 MM",
+      "Case material": "Brass",
+      "Case thickness": "9.35 MM",
+      "Country of origin": "India",
+      "Dial color": "Green",
+      "Display type": "Analog",
+      "Glass material": "Mineral Glass",
+      "Package includes": "1 Watch with Warranty Card",
+      "Strap color": "Two Tone",
+      "Strap material": "Stainless Steel",
+      "Strap width": "22 MM",
+      "Warranty years": "1 Year manufacturer warranty on manufacturing defects.",
+      "Watch movement": "Quartz",
+      "Water resistance": "30 m",
+      "Gender": "Men",
+      "Dial Shape": "Round",
+      "Net Quantity": "1 N"
+    },
+    "verifiedAt": "2026-11-01",
+    "notes": [
+      "Discovered from the exact-reference India product listing."
+    ]
+  },
+  {
+    "id": "timex-twtg12805",
+    "brand": "Timex",
+    "ref": "TWTG12805",
+    "name": "Timex Trendline Round 42mm Silver Dial Analog Men Watch - TWTG12805",
+    "collection": "Watch",
+    "source": "https://shop.timexindia.com/products/timex-trendline-round-42mm-silver-dial-analog-men-watch-twtg12805",
+    "priceSource": "https://shop.timexindia.com/products/timex-trendline-round-42mm-silver-dial-analog-men-watch-twtg12805",
+    "price": 5195.0,
+    "priceType": "Listed INR price",
+    "image": "https://cdn.shopify.com/s/files/1/0787/5375/9521/files/1760617856932-2969b5c4804e4977-394B9BB8ADF0E52FFA49AE660AAAFCF7.jpg?v=1788180741",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0787/5375/9521/files/1760617856932-2969b5c4804e4977-394B9BB8ADF0E52FFA49AE660AAAFCF7.jpg?v=1788180741"
+    ],
+    "specs": {
+      "Watch": ":",
+      "Buckle clasp": "Clasp (Self-Adjust)",
+      "Case color": "Rose Gold",
+      "Case diameter": "42 MM",
+      "Case material": "Brass",
+      "Case thickness": "9.35 MM",
+      "Country of origin": "India",
+      "Dial color": "Silver",
+      "Display type": "Analog",
+      "Glass material": "Mineral Glass",
+      "Package includes": "1 Watch with Warranty Card",
+      "Strap color": "Two Tone",
+      "Strap material": "Stainless Steel",
+      "Strap width": "22 MM",
+      "Warranty years": "1 Year manufacturer warranty on manufacturing defects.",
+      "Watch movement": "Quartz",
+      "Water resistance": "30 m",
+      "Gender": "Men",
+      "Dial Shape": "Round",
+      "Net Quantity": "1 N"
+    },
+    "verifiedAt": "2026-11-01",
+    "notes": [
+      "Discovered from the exact-reference India product listing."
+    ]
+  },
+  {
+    "id": "timex-twtg12804",
+    "brand": "Timex",
+    "ref": "TWTG12804",
+    "name": "Timex Trendline Round 42mm Blue Dial Analog Men Watch - TWTG12804",
+    "collection": "Watch",
+    "source": "https://shop.timexindia.com/products/timex-trendline-round-42mm-blue-dial-analog-men-watch-twtg12804",
+    "priceSource": "https://shop.timexindia.com/products/timex-trendline-round-42mm-blue-dial-analog-men-watch-twtg12804",
+    "price": 4395.0,
+    "priceType": "Listed INR price",
+    "image": "https://cdn.shopify.com/s/files/1/0787/5375/9521/files/1760617857168-2969b5c4804e4977-628DDA80F3EAB022C06A7107F2B0DD58.jpg?v=1788180740",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0787/5375/9521/files/1760617857168-2969b5c4804e4977-628DDA80F3EAB022C06A7107F2B0DD58.jpg?v=1788180740"
+    ],
+    "specs": {
+      "Watch": ":",
+      "Buckle clasp": "Buckle",
+      "Case color": "Rose Gold",
+      "Case diameter": "42 MM",
+      "Case material": "Brass",
+      "Case thickness": "9.35 MM",
+      "Country of origin": "India",
+      "Dial color": "Blue",
+      "Display type": "Analog",
+      "Glass material": "Mineral Glass",
+      "Package includes": "1 Watch with Warranty Card",
+      "Strap color": "Brown",
+      "Strap material": "Leather",
+      "Strap width": "22 MM",
+      "Warranty years": "1 Year manufacturer warranty on manufacturing defects.",
+      "Watch movement": "Quartz",
+      "Water resistance": "30 m",
+      "Gender": "Men",
+      "Dial Shape": "Round",
+      "Net Quantity": "1 N"
+    },
+    "verifiedAt": "2026-11-01",
+    "notes": [
+      "Discovered from the exact-reference India product listing."
+    ]
+  },
+  {
+    "id": "timex-twel18729",
+    "brand": "Timex",
+    "ref": "TWEL18729",
+    "name": "Timex Trendline Round 35mm Blue Dial Analog Women Watch - TWEL18729",
+    "collection": "Watch",
+    "source": "https://shop.timexindia.com/products/timex-trendline-round-35mm-blue-dial-analog-women-watch-twel18729",
+    "priceSource": "https://shop.timexindia.com/products/timex-trendline-round-35mm-blue-dial-analog-women-watch-twel18729",
+    "price": 4995.0,
+    "priceType": "Listed INR price",
+    "image": "https://cdn.shopify.com/s/files/1/0787/5375/9521/files/1757504621429-2969b5c4804e4977-D7FC6D198E7E0DE5B7FC76D53944261D.jpg?v=1788180738",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0787/5375/9521/files/1757504621429-2969b5c4804e4977-D7FC6D198E7E0DE5B7FC76D53944261D.jpg?v=1788180738"
+    ],
+    "specs": {
+      "Watch": ":",
+      "Buckle clasp": "Push-Button clasp",
+      "Case color": "Silver",
+      "Case diameter": "35 MM",
+      "Case material": "Brass",
+      "Case thickness": "7.95 MM",
+      "Country of origin": "India",
+      "Dial color": "Blue",
+      "Display type": "Analog",
+      "Glass material": "Mineral Glass",
+      "Package includes": "1 Watch with Warranty Card",
+      "Strap color": "Silver",
+      "Strap material": "Stainless Steel",
+      "Strap width": "16 MM",
+      "Warranty years": "1 Year manufacturer warranty on manufacturing defects.",
+      "Watch movement": "Quartz",
+      "Water resistance": "30 m",
+      "Gender": "Women",
+      "Dial Shape": "Round",
+      "Net Quantity": "1 N"
+    },
+    "verifiedAt": "2026-11-01",
+    "notes": [
+      "Discovered from the exact-reference India product listing."
+    ]
+  },
+  {
+    "id": "timex-twel18728",
+    "brand": "Timex",
+    "ref": "TWEL18728",
+    "name": "Timex Trendline Round 35mm Black Dial Analog Women Watch - TWEL18728",
+    "collection": "Watch",
+    "source": "https://shop.timexindia.com/products/timex-trendline-round-35mm-black-dial-analog-women-watch-twel18728",
+    "priceSource": "https://shop.timexindia.com/products/timex-trendline-round-35mm-black-dial-analog-women-watch-twel18728",
+    "price": 4995.0,
+    "priceType": "Listed INR price",
+    "image": "https://cdn.shopify.com/s/files/1/0787/5375/9521/files/1757504621612-2969b5c4804e4977-C6FC5A57A7321CF2817E0D63854A787C.jpg?v=1788180735",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0787/5375/9521/files/1757504621612-2969b5c4804e4977-C6FC5A57A7321CF2817E0D63854A787C.jpg?v=1788180735"
+    ],
+    "specs": {
+      "Watch": ":",
+      "Buckle clasp": "Push-Button clasp",
+      "Case color": "Silver",
+      "Case diameter": "35 MM",
+      "Case material": "Brass",
+      "Case thickness": "7.95 MM",
+      "Country of origin": "India",
+      "Dial color": "Black",
+      "Display type": "Analog",
+      "Glass material": "Mineral Glass",
+      "Package includes": "1 Watch with Warranty Card",
+      "Strap color": "Silver",
+      "Strap material": "Stainless Steel",
+      "Strap width": "16 MM",
+      "Warranty years": "1 Year manufacturer warranty on manufacturing defects.",
+      "Watch movement": "Quartz",
+      "Water resistance": "30 m",
+      "Gender": "Women",
+      "Dial Shape": "Round",
+      "Net Quantity": "1 N"
+    },
+    "verifiedAt": "2026-11-01",
+    "notes": [
+      "Discovered from the exact-reference India product listing."
+    ]
+  },
+  {
+    "id": "timex-twel18720",
+    "brand": "Timex",
+    "ref": "TWEL18720",
+    "name": "Timex Trendline Round 35mm Silver Dial Analog Women Watch - TWEL18720",
+    "collection": "Watch",
+    "source": "https://shop.timexindia.com/products/timex-trendline-round-35mm-silver-dial-analog-women-watch-twel18720",
+    "priceSource": "https://shop.timexindia.com/products/timex-trendline-round-35mm-silver-dial-analog-women-watch-twel18720",
+    "price": 4295.0,
+    "priceType": "Listed INR price",
+    "image": "https://cdn.shopify.com/s/files/1/0787/5375/9521/files/1757504621978-2969b5c4804e4977-DD6EB237C1A2DF592F73D506D233666B.jpg?v=1788180734",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0787/5375/9521/files/1757504621978-2969b5c4804e4977-DD6EB237C1A2DF592F73D506D233666B.jpg?v=1788180734"
+    ],
+    "specs": {
+      "Watch": ":",
+      "Buckle clasp": "Push-Button clasp",
+      "Case color": "Rose Gold",
+      "Case diameter": "35 MM",
+      "Case material": "Brass",
+      "Case thickness": "7.95 MM",
+      "Country of origin": "India",
+      "Dial color": "Silver",
+      "Display type": "Analog",
+      "Glass material": "Mineral Glass",
+      "Package includes": "1 Watch with Warranty Card",
+      "Strap color": "Two Tone",
+      "Strap material": "Stainless Steel",
+      "Strap width": "16 MM",
+      "Warranty years": "1 Year manufacturer warranty on manufacturing defects.",
+      "Watch movement": "Quartz",
+      "Water resistance": "30 m",
+      "Gender": "Women",
+      "Dial Shape": "Round",
+      "Net Quantity": "1 N"
+    },
+    "verifiedAt": "2026-11-01",
+    "notes": [
+      "Discovered from the exact-reference India product listing."
+    ]
+  },
+  {
+    "id": "timex-twel18719",
+    "brand": "Timex",
+    "ref": "TWEL18719",
+    "name": "Timex Trendline Round 35mm Green Dial Analog Women Watch - TWEL18719",
+    "collection": "Watch",
+    "source": "https://shop.timexindia.com/products/timex-trendline-round-35mm-green-dial-analog-women-watch-twel18719",
+    "priceSource": "https://shop.timexindia.com/products/timex-trendline-round-35mm-green-dial-analog-women-watch-twel18719",
+    "price": 3995.0,
+    "priceType": "Listed INR price",
+    "image": "https://cdn.shopify.com/s/files/1/0787/5375/9521/files/1756360272051-2969b5c4804e4977-7F73AF3EE820A7FA23A6EFB5FD97C30C.jpg?v=1788180733",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0787/5375/9521/files/1756360272051-2969b5c4804e4977-7F73AF3EE820A7FA23A6EFB5FD97C30C.jpg?v=1788180733"
+    ],
+    "specs": {
+      "Watch": ":",
+      "Buckle clasp": "Push-Button clasp",
+      "Case color": "Gold",
+      "Case diameter": "35 MM",
+      "Case material": "Brass",
+      "Case thickness": "7.95 MM",
+      "Country of origin": "India",
+      "Dial color": "Green",
+      "Display type": "Analog",
+      "Glass material": "Mineral Glass",
+      "Package includes": "1 Watch with Warranty Card",
+      "Strap color": "Gold",
+      "Strap material": "Stainless Steel",
+      "Strap width": "16 MM",
+      "Warranty years": "1 Year manufacturer warranty on manufacturing defects.",
+      "Watch movement": "Quartz",
+      "Water resistance": "30 m",
+      "Gender": "Women",
+      "Dial Shape": "Round",
+      "Net Quantity": "1 N"
+    },
+    "verifiedAt": "2026-11-01",
+    "notes": [
+      "Discovered from the exact-reference India product listing."
+    ]
+  },
+  {
+    "id": "timex-twel18718",
+    "brand": "Timex",
+    "ref": "TWEL18718",
+    "name": "Timex Trendline Round 35mm Rose Gold Dial Analog Women Watch - TWEL18718",
+    "collection": "Watch",
+    "source": "https://shop.timexindia.com/products/timex-trendline-round-35mm-rose-gold-dial-analog-women-watch-twel18718",
+    "priceSource": "https://shop.timexindia.com/products/timex-trendline-round-35mm-rose-gold-dial-analog-women-watch-twel18718",
+    "price": 4195.0,
+    "priceType": "Listed INR price",
+    "image": "https://cdn.shopify.com/s/files/1/0787/5375/9521/files/1756360272274-2969b5c4804e4977-04A91E02A5702EC43C4ADD643734AC75.jpg?v=1788180731",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0787/5375/9521/files/1756360272274-2969b5c4804e4977-04A91E02A5702EC43C4ADD643734AC75.jpg?v=1788180731"
+    ],
+    "specs": {
+      "Watch": ":",
+      "Buckle clasp": "Push-Button clasp",
+      "Case color": "Rose Gold",
+      "Case diameter": "35 MM",
+      "Case material": "Brass",
+      "Case thickness": "7.95 MM",
+      "Country of origin": "India",
+      "Dial color": "Rose Gold",
+      "Display type": "Analog",
+      "Glass material": "Mineral Glass",
+      "Package includes": "1 Watch with Warranty Card",
+      "Strap color": "Rose Gold",
+      "Strap material": "Stainless Steel",
+      "Strap width": "16 MM",
+      "Warranty years": "1 Year manufacturer warranty on manufacturing defects.",
+      "Watch movement": "Quartz",
+      "Water resistance": "30 m",
+      "Gender": "Women",
+      "Dial Shape": "Round",
+      "Net Quantity": "1 N"
+    },
+    "verifiedAt": "2026-11-01",
+    "notes": [
+      "Discovered from the exact-reference India product listing."
+    ]
+  },
+  {
+    "id": "timex-twel24003",
+    "brand": "Timex",
+    "ref": "TWEL24003",
+    "name": "Timex Fria Oval 29mm Blue Dial Analog Women Watch - TWEL24003",
+    "collection": "Watch",
+    "source": "https://shop.timexindia.com/products/timex-fria-oval-29mm-blue-dial-analog-women-watch-twel24003",
+    "priceSource": "https://shop.timexindia.com/products/timex-fria-oval-29mm-blue-dial-analog-women-watch-twel24003",
+    "price": 4795.0,
+    "priceType": "Listed INR price",
+    "image": "https://cdn.shopify.com/s/files/1/0787/5375/9521/files/1758610062452-2969b5c4804e4977-B2E646CC9C6DE0D594E6B8507048C364.jpg?v=1788180729",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0787/5375/9521/files/1758610062452-2969b5c4804e4977-B2E646CC9C6DE0D594E6B8507048C364.jpg?v=1788180729"
+    ],
+    "specs": {
+      "Watch": ":",
+      "Buckle clasp": "Clasp (Jewelry)",
+      "Case color": "Rose Gold",
+      "Case diameter": "29.3 MM",
+      "Case material": "Brass",
+      "Case thickness": "7.35 MM",
+      "Country of origin": "India",
+      "Dial color": "Blue",
+      "Display type": "Analog",
+      "Glass material": "Mineral Glass",
+      "Package includes": "1 Watch with Warranty Card",
+      "Strap color": "Rose Gold",
+      "Strap material": "Brass",
+      "Strap width": "14.5 MM",
+      "Warranty years": "1 Year manufacturer warranty on manufacturing defects.",
+      "Watch movement": "Quartz",
+      "Water resistance": "30 m",
+      "Gender": "Women",
+      "Dial Shape": "Oval",
+      "Net Quantity": "1 N"
+    },
+    "verifiedAt": "2026-11-01",
+    "notes": [
+      "Discovered from the exact-reference India product listing."
+    ]
+  },
+  {
+    "id": "fossil-fs6102set",
+    "brand": "Fossil",
+    "ref": "FS6102SET",
+    "name": "Fossil Machine Black Dial Men 44mm FS6102SET",
+    "collection": "Analog",
+    "source": "https://zimsonwatches.com/products/fossil-machine-black-dial-men-44mm-fs6102set",
+    "priceSource": "https://zimsonwatches.com/products/fossil-machine-black-dial-men-44mm-fs6102set",
+    "price": 17495.0,
+    "priceType": "Listed INR price",
+    "image": "https://cdn.shopify.com/s/files/1/0261/8900/4880/files/FS6102SET.jpg?v=1760791038",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0261/8900/4880/files/FS6102SET.jpg?v=1760791038"
+    ],
+    "specs": {
+      "MOVEMENT": "Quartz",
+      "SIZE CASE": "44mm",
+      "CASE SHAPE": "Round",
+      "CASE MATERIAL": "Steel & Black PVD",
+      "GLASS MATERIAL": "Mineral Crystal",
+      "DIAL COLOUR": "Black",
+      "STRAP MATERIAL": "Leather",
+      "STRAP COLOUR": "Brown",
+      "GENDER": "Men",
+      "WATER RESISTANCE (M)": "50.0",
+      "WARRANTY PERIOD": "2 Years",
+      "COUNTRY OF ORIGIN": "China"
+    },
+    "verifiedAt": "2026-11-01",
+    "notes": [
+      "Discovered from the exact-reference India product listing."
+    ]
+  },
+  {
+    "id": "fossil-es5399",
+    "brand": "Fossil",
+    "ref": "ES5399",
+    "name": "Fossil Raquel White Mother-Of-Pearl Dial Women 29mm ES5399",
+    "collection": "Analog",
+    "source": "https://zimsonwatches.com/products/fossil-raquel-white-mother-of-pearl-dial-women-29mm-es5399",
+    "priceSource": "https://zimsonwatches.com/products/fossil-raquel-white-mother-of-pearl-dial-women-29mm-es5399",
+    "price": 18495.0,
+    "priceType": "Listed INR price",
+    "image": "https://cdn.shopify.com/s/files/1/0261/8900/4880/files/ES5399.jpg?v=1760791288",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0261/8900/4880/files/ES5399.jpg?v=1760791288"
+    ],
+    "specs": {
+      "MOVEMENT": "Quartz",
+      "SIZE CASE": "29mm",
+      "CASE SHAPE": "Rectangle",
+      "CASE MATERIAL": "Stainless Steel",
+      "GLASS MATERIAL": "Mineral Crystal",
+      "DIAL COLOUR": "White Mother-Of-Pearl",
+      "STRAP MATERIAL": "Steel & Yellow Gold PVD",
+      "STRAP COLOUR": "Silver & Yellow Gold",
+      "GENDER": "Women",
+      "WATER RESISTANCE (M)": "50.0",
+      "WARRANTY PERIOD": "2 Years",
+      "COUNTRY OF ORIGIN": "China"
+    },
+    "verifiedAt": "2026-11-01",
+    "notes": [
+      "Discovered from the exact-reference India product listing."
+    ]
+  },
+  {
+    "id": "fossil-ce1134",
+    "brand": "Fossil",
+    "ref": "CE1134",
+    "name": "Fossil Gilmore Blue Dial Women 38mm CE1134",
+    "collection": "Analog",
+    "source": "https://zimsonwatches.com/products/fossil-gilmore-blue-dial-women-38mm-ce1134",
+    "priceSource": "https://zimsonwatches.com/products/fossil-gilmore-blue-dial-women-38mm-ce1134",
+    "price": 17495.0,
+    "priceType": "Listed INR price",
+    "image": "https://cdn.shopify.com/s/files/1/0261/8900/4880/files/CE1134.jpg?v=1760791504",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0261/8900/4880/files/CE1134.jpg?v=1760791504"
+    ],
+    "specs": {
+      "MOVEMENT": "Quartz",
+      "SIZE CASE": "38mm",
+      "CASE SHAPE": "Round",
+      "CASE MATERIAL": "Rose Gold PVD",
+      "GLASS MATERIAL": "Mineral Crystal",
+      "DIAL COLOUR": "Blue",
+      "STRAP MATERIAL": "Rose Gold PVD & Navy Ceramic",
+      "STRAP COLOUR": "Rose Gold & Navy",
+      "GENDER": "Women",
+      "WATER RESISTANCE (M)": "50.0",
+      "WARRANTY PERIOD": "2 Years",
+      "COUNTRY OF ORIGIN": "China"
+    },
+    "verifiedAt": "2026-11-01",
+    "notes": [
+      "Discovered from the exact-reference India product listing."
+    ]
+  },
+  {
+    "id": "fossil-ce1133",
+    "brand": "Fossil",
+    "ref": "CE1133",
+    "name": "Fossil Gilmore Brown Dial Women 38mm CE1133",
+    "collection": "Analog",
+    "source": "https://zimsonwatches.com/products/fossil-gilmore-brown-dial-women-38mm-ce1133",
+    "priceSource": "https://zimsonwatches.com/products/fossil-gilmore-brown-dial-women-38mm-ce1133",
+    "price": 17495.0,
+    "priceType": "Listed INR price",
+    "image": "https://cdn.shopify.com/s/files/1/0261/8900/4880/files/CE1133.jpg?v=1760791742",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0261/8900/4880/files/CE1133.jpg?v=1760791742"
+    ],
+    "specs": {
+      "MOVEMENT": "Quartz",
+      "SIZE CASE": "38mm",
+      "CASE SHAPE": "Round",
+      "CASE MATERIAL": "Rose Gold PVD",
+      "GLASS MATERIAL": "Mineral Crystal",
+      "DIAL COLOUR": "Brown",
+      "STRAP MATERIAL": "Rose Gold PVD & Brown Ceramic",
+      "STRAP COLOUR": "Rose Gold & Brown",
+      "GENDER": "Women",
+      "WATER RESISTANCE (M)": "50.0",
+      "WARRANTY PERIOD": "2 Years",
+      "COUNTRY OF ORIGIN": "China"
+    },
+    "verifiedAt": "2026-11-01",
+    "notes": [
+      "Discovered from the exact-reference India product listing."
+    ]
+  },
+  {
+    "id": "fossil-fs6146",
+    "brand": "Fossil",
+    "ref": "FS6146",
+    "name": "Fossil Garrett Multifunction Blue Dial Men 44mm FS6146",
+    "collection": "Analog",
+    "source": "https://zimsonwatches.com/products/fossil-garrett-multifunction-blue-dial-men-44mm-fs6146",
+    "priceSource": "https://zimsonwatches.com/products/fossil-garrett-multifunction-blue-dial-men-44mm-fs6146",
+    "price": 14495.0,
+    "priceType": "Listed INR price",
+    "image": "https://cdn.shopify.com/s/files/1/0261/8900/4880/files/FS6146.jpg?v=1756972899",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0261/8900/4880/files/FS6146.jpg?v=1756972899"
+    ],
+    "specs": {
+      "MOVEMENT": "Quartz",
+      "SIZE CASE": "44mm",
+      "CASE SHAPE": "Round",
+      "CASE MATERIAL": "Stainless Steel",
+      "GLASS MATERIAL": "Mineral Glass",
+      "DIAL COLOUR": "Blue",
+      "STRAP MATERIAL": "Steel & Yellow Gold PVD",
+      "STRAP COLOUR": "Silver & Yellow Gold",
+      "GENDER": "Men",
+      "WATER RESISTANCE (M)": "50.0",
+      "WARRANTY PERIOD": "2 Years",
+      "COUNTRY OF ORIGIN": "China"
+    },
+    "verifiedAt": "2026-11-01",
+    "notes": [
+      "Discovered from the exact-reference India product listing."
+    ]
+  },
+  {
+    "id": "fossil-fs6137",
+    "brand": "Fossil",
+    "ref": "FS6137",
+    "name": "Fossil Pearson Multifunction Green Dial Men 42mm FS6137",
+    "collection": "Analog",
+    "source": "https://zimsonwatches.com/products/fossil-pearson-multifunction-green-dial-men-42mm-fs6137",
+    "priceSource": "https://zimsonwatches.com/products/fossil-pearson-multifunction-green-dial-men-42mm-fs6137",
+    "price": 10495.0,
+    "priceType": "Listed INR price",
+    "image": "https://cdn.shopify.com/s/files/1/0261/8900/4880/files/FS6137.jpg?v=1756973299",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0261/8900/4880/files/FS6137.jpg?v=1756973299"
+    ],
+    "specs": {
+      "MOVEMENT": "Quartz",
+      "SIZE CASE": "42mm",
+      "CASE SHAPE": "Round",
+      "CASE MATERIAL": "Stainless Steel",
+      "GLASS MATERIAL": "Mineral Glass",
+      "DIAL COLOUR": "Green",
+      "STRAP MATERIAL": "Leather",
+      "STRAP COLOUR": "Brown",
+      "GENDER": "Men",
+      "WATER RESISTANCE (M)": "50.0",
+      "WARRANTY PERIOD": "2 Years",
+      "COUNTRY OF ORIGIN": "China"
+    },
+    "verifiedAt": "2026-11-01",
+    "notes": [
+      "Discovered from the exact-reference India product listing."
+    ]
+  },
+  {
+    "id": "fossil-fs6136",
+    "brand": "Fossil",
+    "ref": "FS6136",
+    "name": "Fossil Pearson Multifunction Black Dial Men 42mm FS6136",
+    "collection": "Analog",
+    "source": "https://zimsonwatches.com/products/fossil-pearson-multifunction-black-dial-men-42mm-fs6136",
+    "priceSource": "https://zimsonwatches.com/products/fossil-pearson-multifunction-black-dial-men-42mm-fs6136",
+    "price": 11995.0,
+    "priceType": "Listed INR price",
+    "image": "https://cdn.shopify.com/s/files/1/0261/8900/4880/files/FS6136.jpg?v=1756973858",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0261/8900/4880/files/FS6136.jpg?v=1756973858"
+    ],
+    "specs": {
+      "MOVEMENT": "Quartz",
+      "SIZE CASE": "42mm",
+      "CASE SHAPE": "Round",
+      "CASE MATERIAL": "Stainless Steel",
+      "GLASS MATERIAL": "Mineral Glass",
+      "DIAL COLOUR": "Black",
+      "STRAP MATERIAL": "Stainless Steel",
+      "STRAP COLOUR": "Gunmetal",
+      "GENDER": "Men",
+      "WATER RESISTANCE (M)": "50.0",
+      "WARRANTY PERIOD": "2 Years",
+      "COUNTRY OF ORIGIN": "China"
+    },
+    "verifiedAt": "2026-11-01",
+    "notes": [
+      "Discovered from the exact-reference India product listing."
+    ]
+  },
+  {
+    "id": "fossil-fs6134",
+    "brand": "Fossil",
+    "ref": "FS6134",
+    "name": "Fossil Pearson Multifunction Blue Dial Men 42mm FS6134",
+    "collection": "Analog",
+    "source": "https://zimsonwatches.com/products/fossil-pearson-multifunction-blue-dial-men-42mm-fs6134",
+    "priceSource": "https://zimsonwatches.com/products/fossil-pearson-multifunction-blue-dial-men-42mm-fs6134",
+    "price": 11995.0,
+    "priceType": "Listed INR price",
+    "image": "https://cdn.shopify.com/s/files/1/0261/8900/4880/files/FS6134.jpg?v=1756974598",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0261/8900/4880/files/FS6134.jpg?v=1756974598"
+    ],
+    "specs": {
+      "MOVEMENT": "Quartz",
+      "SIZE CASE": "42mm",
+      "CASE SHAPE": "Round",
+      "CASE MATERIAL": "Stainless Steel",
+      "GLASS MATERIAL": "Mineral Glass",
+      "DIAL COLOUR": "Blue",
+      "STRAP MATERIAL": "Stainless Steel",
+      "STRAP COLOUR": "Silver",
+      "GENDER": "Men",
+      "WATER RESISTANCE (M)": "50.0",
+      "WARRANTY PERIOD": "2 Years",
+      "COUNTRY OF ORIGIN": "China"
+    },
+    "verifiedAt": "2026-11-01",
+    "notes": [
+      "Discovered from the exact-reference India product listing."
+    ]
+  },
+  {
+    "id": "fossil-fs6133",
+    "brand": "Fossil",
+    "ref": "FS6133",
+    "name": "Fossil Grant Chronograph Blue Dial Men 44mm FS6133",
+    "collection": "Analog",
+    "source": "https://zimsonwatches.com/products/fossil-grant-chronograph-blue-dial-men-44mm-fs6133",
+    "priceSource": "https://zimsonwatches.com/products/fossil-grant-chronograph-blue-dial-men-44mm-fs6133",
+    "price": 14495.0,
+    "priceType": "Listed INR price",
+    "image": "https://cdn.shopify.com/s/files/1/0261/8900/4880/files/FS6133.jpg?v=1756978816",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0261/8900/4880/files/FS6133.jpg?v=1756978816"
+    ],
+    "specs": {
+      "MOVEMENT": "Quartz",
+      "SIZE CASE": "44mm",
+      "CASE SHAPE": "Round",
+      "CASE MATERIAL": "Stainless Steel",
+      "GLASS MATERIAL": "Mineral Glass",
+      "DIAL COLOUR": "Blue",
+      "STRAP MATERIAL": "Stainless Steel",
+      "STRAP COLOUR": "Gunmetal",
+      "GENDER": "Men",
+      "WATER RESISTANCE (M)": "50.0",
+      "WARRANTY PERIOD": "2 Years",
+      "COUNTRY OF ORIGIN": "China"
+    },
+    "verifiedAt": "2026-11-01",
+    "notes": [
+      "Discovered from the exact-reference India product listing."
+    ]
+  },
+  {
+    "id": "fossil-fs6132",
+    "brand": "Fossil",
+    "ref": "FS6132",
+    "name": "Fossil Grant Chronograph Blue Dial Men 44mm FS6132",
+    "collection": "Analog",
+    "source": "https://zimsonwatches.com/products/fossil-grant-chronograph-blue-dial-men-44mm-fs6132",
+    "priceSource": "https://zimsonwatches.com/products/fossil-grant-chronograph-blue-dial-men-44mm-fs6132",
+    "price": 14495.0,
+    "priceType": "Listed INR price",
+    "image": "https://cdn.shopify.com/s/files/1/0261/8900/4880/files/FS6132.jpg?v=1756979235",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0261/8900/4880/files/FS6132.jpg?v=1756979235"
+    ],
+    "specs": {
+      "MOVEMENT": "Quartz",
+      "SIZE CASE": "44mm",
+      "CASE SHAPE": "Round",
+      "CASE MATERIAL": "Stainless Steel",
+      "GLASS MATERIAL": "Mineral Glass",
+      "DIAL COLOUR": "Blue",
+      "STRAP MATERIAL": "Steel & Yellow Gold PVD",
+      "STRAP COLOUR": "Silver & Yellow Gold",
+      "GENDER": "Men",
+      "WATER RESISTANCE (M)": "50.0",
+      "WARRANTY PERIOD": "2 Years",
+      "COUNTRY OF ORIGIN": "China"
+    },
+    "verifiedAt": "2026-11-01",
+    "notes": [
+      "Discovered from the exact-reference India product listing."
+    ]
+  },
+  {
+    "id": "fossil-fs6128",
+    "brand": "Fossil",
+    "ref": "FS6128",
+    "name": "Fossil Everett Chronograph Grey Dial Men 44mm FS6128",
+    "collection": "Analog",
+    "source": "https://zimsonwatches.com/products/fossil-everett-chronograph-grey-dial-men-44mm-fs6128",
+    "priceSource": "https://zimsonwatches.com/products/fossil-everett-chronograph-grey-dial-men-44mm-fs6128",
+    "price": 15995.0,
+    "priceType": "Listed INR price",
+    "image": "https://cdn.shopify.com/s/files/1/0261/8900/4880/files/FS6128.jpg?v=1757050850",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0261/8900/4880/files/FS6128.jpg?v=1757050850"
+    ],
+    "specs": {
+      "MOVEMENT": "Quartz",
+      "SIZE CASE": "44mm",
+      "CASE SHAPE": "Round",
+      "CASE MATERIAL": "Stainless Steel",
+      "GLASS MATERIAL": "Mineral Glass",
+      "DIAL COLOUR": "Grey",
+      "STRAP MATERIAL": "Stainless Steel",
+      "STRAP COLOUR": "Silver",
+      "GENDER": "Men",
+      "WATER RESISTANCE (M)": "50.0",
+      "WARRANTY PERIOD": "2 Years",
+      "COUNTRY OF ORIGIN": "China"
+    },
+    "verifiedAt": "2026-11-01",
+    "notes": [
+      "Discovered from the exact-reference India product listing."
+    ]
+  },
+  {
+    "id": "fossil-fs6127",
+    "brand": "Fossil",
+    "ref": "FS6127",
+    "name": "Fossil Autocross Multifunction Green Dial Men 42mm FS6127",
+    "collection": "Analog",
+    "source": "https://zimsonwatches.com/products/fossil-autocross-multifunction-green-dial-men-42mm-fs6127",
+    "priceSource": "https://zimsonwatches.com/products/fossil-autocross-multifunction-green-dial-men-42mm-fs6127",
+    "price": 11995.0,
+    "priceType": "Listed INR price",
+    "image": "https://cdn.shopify.com/s/files/1/0261/8900/4880/files/FS6127.jpg?v=1757051122",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0261/8900/4880/files/FS6127.jpg?v=1757051122"
+    ],
+    "specs": {
+      "MOVEMENT": "Quartz",
+      "SIZE CASE": "42mm",
+      "CASE SHAPE": "Round",
+      "CASE MATERIAL": "Stainless Steel",
+      "GLASS MATERIAL": "Mineral Glass",
+      "DIAL COLOUR": "Green",
+      "STRAP MATERIAL": "Stainless Steel",
+      "STRAP COLOUR": "Silver",
+      "GENDER": "Men",
+      "WATER RESISTANCE (M)": "50.0",
+      "WARRANTY PERIOD": "2 Years",
+      "COUNTRY OF ORIGIN": "China"
+    },
+    "verifiedAt": "2026-11-01",
+    "notes": [
+      "Discovered from the exact-reference India product listing."
+    ]
+  },
+  {
+    "brand": "Tissot",
+    "name": "Tissot PRX 40mm",
+    "ref": "T1374101109100",
+    "collection": "Tissot",
+    "price": 44000.0,
+    "priceType": "Official India listed INR price",
+    "source": "https://www.tissotwatches.com/en-in/T1374101109100.html",
+    "priceSource": "https://www.tissotwatches.com/en-in/T1374101109100.html",
+    "image": "https://www.tissotwatches.com/dw/image/v2/BKKD_PRD/on/demandware.static/-/Sites-Tissot-Catalogue/default/dw5d29446e/product-pictures/2ea14f38-887a-4f88-b35f-ef97276e79c2_T137-410-11-091-00_shadow.png?sm=fit&sw=800&sh=800,gravity=center",
+    "images": [
+      "https://www.tissotwatches.com/dw/image/v2/BKKD_PRD/on/demandware.static/-/Sites-Tissot-Catalogue/default/dw5d29446e/product-pictures/2ea14f38-887a-4f88-b35f-ef97276e79c2_T137-410-11-091-00_shadow.png?sm=fit&sw=800&sh=800,gravity=center",
+      "https://www.tissotwatches.com/dw/image/v2/BKKD_PRD/on/demandware.static/-/Sites-Tissot-Catalogue/default/dw5655c68e/product-pictures/7589c960-a126-4d85-a6af-cdb499d8e2ad_T137_410_11_091_00_WRIST.png?sm=fit&sw=800&sh=800,gravity=center",
+      "https://www.tissotwatches.com/dw/image/v2/BKKD_PRD/on/demandware.static/-/Sites-Tissot-Catalogue/default/dw387d8a68/product-pictures/0b15ba27-315a-43d9-ab0a-255d0ade805f_T605-046-447_ZOOM.png?sm=fit&sw=800&sh=800,gravity=center",
+      "https://www.tissotwatches.com/dw/image/v2/BKKD_PRD/on/demandware.static/-/Sites-Tissot-Catalogue/default/dw79f8aeda/product-pictures/0a8dc253-9956-47f5-97f7-8efec99489bd_T137_410_11_091_00_B1.png?sm=fit&sw=800&sh=800,gravity=center",
+      "https://www.tissotwatches.com/dw/image/v2/BKKD_PRD/on/demandware.static/-/Sites-Tissot-Catalogue/default/dwdc5e8e06/product-pictures/92b42ad7-16cd-469c-9a87-a305f0331f3d_T137_410_11_091_00_PROFIL.png?sm=fit&sw=800&sh=800,gravity=center",
+      "https://www.tissotwatches.com/dw/image/v2/BKKD_PRD/on/demandware.static/-/Sites-Tissot-Catalogue/default/dw5d29446e/product-pictures/2ea14f38-887a-4f88-b35f-ef97276e79c2_T137-410-11-091-00_shadow.png?sm=fit&sw=300&sh=300,gravity=center"
+    ],
+    "specs": {
+      "Weight (g)": "130.00 g",
+      "Warranty": "2 Years of Warranty",
+      "Country of manufacture": "Switzerland",
+      "Case length (mm)": "39.50 mm",
+      "Case width (mm)": "40.00 mm",
+      "Case thickness (mm)": "10.40 mm",
+      "Case lug width (mm)": "12.00 mm",
+      "Case water resistance": "Water-resistant up to a pressure of 10 bar (100 m / 330 ft)",
+      "Case material": "316L stainless steel",
+      "Bezel material": "Stainless steel",
+      "Crystal": "Sapphire",
+      "Movement": "Quartz three hands",
+      "Battery voltage (volts)": "1.55",
+      "Movement functions": "EOL (battery end-of-life indicator)",
+      "Main functions": "Date",
+      "Dial colour": "Green",
+      "Indexes type": "Index",
+      "Luminescent material on the hands": "Super-LumiNova\u00ae",
+      "Strap/Bracelet reference": "T605046447",
+      "Strap material": "Stainless steel",
+      "Strap colour": "Grey",
+      "Buckle": "Butterfly clasp with push-buttons",
+      "Bracelet option": "Interchangeable quick release bracelet"
+    },
+    "verifiedAt": "2026-11-01"
   }
 ]
